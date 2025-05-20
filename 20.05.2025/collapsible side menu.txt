@@ -1,0 +1,15 @@
+1. drag a dynamic panel and resize it. in the left side screen
+2. then copy and paste it in the same side but increase the width (rename as side menu)
+3. go inside the panel - change the background color as grey - 
+4. inside the panel 
+
+create icon - add heading
+add menu using box - remove the visibility of left and right
+
+5. pin the panel - horizontal left - vertical bottom - set panel hidden
+
+6. select the first panel - swiped right - slide menu panel - animate (slide right 200ms)
+
+7. go inside the menu panel - (select box) click/tap - hide - slide left (copy this to all menu)
+
+8. select the menu panel - add swiped left - hide - slide left (200ms)
